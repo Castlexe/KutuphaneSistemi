@@ -1,0 +1,30 @@
+C:\Users\PC\Desktop\Kütüphane Sistemi\KütüphaneSistemi\KütüphaneSistemi\bin\Debug\KütüphaneSistemi.exe.config
+C:\Users\PC\Desktop\Kütüphane Sistemi\KütüphaneSistemi\KütüphaneSistemi\bin\Debug\KütüphaneSistemi.exe
+C:\Users\PC\Desktop\Kütüphane Sistemi\KütüphaneSistemi\KütüphaneSistemi\bin\Debug\KütüphaneSistemi.pdb
+C:\Users\PC\Desktop\Kütüphane Sistemi\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\KütüphaneSistemi.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Kütüphane Sistemi\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\KütüphaneSistemi.Form1.resources
+C:\Users\PC\Desktop\Kütüphane Sistemi\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\KütüphaneSistemi.Properties.Resources.resources
+C:\Users\PC\Desktop\Kütüphane Sistemi\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\KütüphaneSistemi.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Kütüphane Sistemi\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\KütüphaneSistemi.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Kütüphane Sistemi\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\KütüphaneSistemi.exe
+C:\Users\PC\Desktop\Kütüphane Sistemi\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\KütüphaneSistemi.pdb
+C:\Users\PC\Desktop\Burhan KARYAĞDI\Kütüphane Sistemi\KütüphaneSistemi\KütüphaneSistemi\bin\Debug\KütüphaneSistemi.exe.config
+C:\Users\PC\Desktop\Burhan KARYAĞDI\Kütüphane Sistemi\KütüphaneSistemi\KütüphaneSistemi\bin\Debug\KütüphaneSistemi.exe
+C:\Users\PC\Desktop\Burhan KARYAĞDI\Kütüphane Sistemi\KütüphaneSistemi\KütüphaneSistemi\bin\Debug\KütüphaneSistemi.pdb
+C:\Users\PC\Desktop\Burhan KARYAĞDI\Kütüphane Sistemi\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\KütüphaneSistemi.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Burhan KARYAĞDI\Kütüphane Sistemi\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\KütüphaneSistemi.Form1.resources
+C:\Users\PC\Desktop\Burhan KARYAĞDI\Kütüphane Sistemi\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\KütüphaneSistemi.Properties.Resources.resources
+C:\Users\PC\Desktop\Burhan KARYAĞDI\Kütüphane Sistemi\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\KütüphaneSistemi.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Burhan KARYAĞDI\Kütüphane Sistemi\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\KütüphaneSistemi.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Burhan KARYAĞDI\Kütüphane Sistemi\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\KütüphaneSistemi.exe
+C:\Users\PC\Desktop\Burhan KARYAĞDI\Kütüphane Sistemi\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\KütüphaneSistemi.pdb
+C:\Users\PC\Desktop\Codexe\Görsel Programlama\Burhan Karyağdı\Kütüphane Sistemi\KütüphaneSistemi\KütüphaneSistemi\bin\Debug\KütüphaneSistemi.exe.config
+C:\Users\PC\Desktop\Codexe\Görsel Programlama\Burhan Karyağdı\Kütüphane Sistemi\KütüphaneSistemi\KütüphaneSistemi\bin\Debug\KütüphaneSistemi.exe
+C:\Users\PC\Desktop\Codexe\Görsel Programlama\Burhan Karyağdı\Kütüphane Sistemi\KütüphaneSistemi\KütüphaneSistemi\bin\Debug\KütüphaneSistemi.pdb
+C:\Users\PC\Desktop\Codexe\Görsel Programlama\Burhan Karyağdı\Kütüphane Sistemi\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\KütüphaneSistemi.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Codexe\Görsel Programlama\Burhan Karyağdı\Kütüphane Sistemi\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\KütüphaneSistemi.Form1.resources
+C:\Users\PC\Desktop\Codexe\Görsel Programlama\Burhan Karyağdı\Kütüphane Sistemi\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\KütüphaneSistemi.Properties.Resources.resources
+C:\Users\PC\Desktop\Codexe\Görsel Programlama\Burhan Karyağdı\Kütüphane Sistemi\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\KütüphaneSistemi.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Codexe\Görsel Programlama\Burhan Karyağdı\Kütüphane Sistemi\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\KütüphaneSistemi.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Codexe\Görsel Programlama\Burhan Karyağdı\Kütüphane Sistemi\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\KütüphaneSistemi.exe
+C:\Users\PC\Desktop\Codexe\Görsel Programlama\Burhan Karyağdı\Kütüphane Sistemi\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\KütüphaneSistemi.pdb
